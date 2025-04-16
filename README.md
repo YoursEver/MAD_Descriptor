@@ -28,7 +28,7 @@ If you find our work useful, please cite:
 @inproceedings{shao2024detecting,
   title={Detecting Biomedical Copy-Move Forgery by Attention-Based Multiscale Deep Descriptors},
   author={Shao, Hao-Chiang and Tseng, Tse-Yu and Liao, Yuan-Rong and Chen, Chi-Chun and Hung, Chung-Yang and Liang, Ming-Hsin},
-  booktitle={2024 IEEE International Conference on Image Processing (ICIP)},
+  booktitle={Proc. IEEE Int. Conf. Image Process.},
   pages={2895--2901},
   year={2024},
   organization={IEEE}
